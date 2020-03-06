@@ -1,3 +1,26 @@
 # 大一课程
 
 本目录下包括了 IEEE 试点班培养计划中，大一年级（即，推荐学期为1、2或2.5）开设的全部课程，请根据侧边栏的导航信息，或下述列表，查看具体课程的信息：
+
+- [CS124 计算导论](/courses/grade-1/CS124)
+- [CS125 程序设计](/courses/grade-1/CS125)
+- [EE100 电类工程导论(A类)](/courses/grade-1/EE100)
+- [EE101 电类工程导论(B类)](/courses/grade-1/EE101)
+- [EN061 大学英语(1)](/courses/grade-1/EN061)
+- [EN062 大学英语(2)](/courses/grade-1/EN062)
+- [EN063 大学英语(3)](/courses/grade-1/EN063)
+- [EN064 大学英语(4)](/courses/grade-1/EN064)
+- [EN065 大学英语(5)](/courses/grade-1/EN065)
+- [MA077 线性代数(B类)](/courses/grade-1/MA077)
+- [MA190 数学分析(荣誉)(1)](/courses/grade-1/MA190)
+- [MA191 数学分析(荣誉)(2)](/courses/grade-1/MA191)
+- [MA208 离散数学(A类)](/courses/grade-1/MA208)
+- [PE001 体育(1)](/courses/grade-1/PE001)
+- [PE002 体育(2)](/courses/grade-1/PE002)
+- [PH028 大学物理实验(1)](/courses/grade-1/PH028)
+- [PH060 大学物理(荣誉)(1)](/courses/grade-1/PH060)
+- [TH000 思想道德修养与法律基础](/courses/grade-1/TH000)
+- [TH004 军事理论](/courses/grade-1/TH004)
+- [TH010 军训](/courses/grade-1/TH010)
+- [TH021 中国近现代史纲要](/courses/grade-1/TH021)
+- [XP004 新时代社会认知实践](/courses/grade-1/XP004)
