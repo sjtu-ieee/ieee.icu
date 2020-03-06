@@ -7,6 +7,7 @@
   <meta name="description" content="上海交通大学 IEEE 试点班，一个充满了「神仙」课程的专业，本网站旨在记录这些课程的信息以及历届学生对其的评价">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app"></div>
@@ -19,5 +20,19 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- Gittalk -->
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '7609b4af633de422bc1f',
+      clientSecret: '513ef364f7331a03917e4330a7ff80b7998bad47',
+      repo: 'ieee.icu',
+      owner: 'keithnull',
+      admin: ['keithnull'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
 </body>
 </html>
