@@ -24,6 +24,7 @@
 
 ## 近期更新页面
 
-- 2020-03-07: [CS263 程序语言](/courses/grade-2/CS263)
 
-- 2020-03-07: [CS222 算法设计与分析](/courses/grade-3/CS222)
+- 2020-03-08: [MA227 概率论与随机过程](/courses/grade-2/MA227), [EI333 软件工程](/courses/grade-2/EI333)
+
+- 2020-03-07: [CS222 算法设计与分析](/courses/grade-3/CS222), [CS263 程序语言](/courses/grade-2/CS263)
