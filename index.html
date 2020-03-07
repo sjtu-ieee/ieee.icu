@@ -19,7 +19,7 @@
       subMaxLevel: 2,
       ga: 'UA-118116525-2',
       search: {
-        maxAge: 86400000, // Expiration time, the default one day
+        maxAge: 3600000, // Expiration time, one hour
         paths: 'auto',
         // Localization
         placeholder: {
@@ -32,12 +32,24 @@
           '/': 'No Results'
         },
         // Headline depth, 1 - 6
-        depth: 2,
+        depth: 6,
         hideOtherSidebarContent: true,
         // To avoid search index collision
         // between multiple websites under the same domain
         namespace: 'ieee.icu',
-      }
+      },
+      plugins: [
+        // remove url parameters before loading Gitalk
+        // as Gitalk uses location.href as id
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            var splited = location.href.split('?')
+            if (splited.length >= 2 && !splited[1].startsWith("code=")) {
+              location.href = location.href.split('?')[0]
+            }
+          });
+        }
+      ],
     }
   </script>
   <!-- Docsify -->
@@ -46,7 +58,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
   <!-- Search -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <!-- Gittalk -->
+  <!-- Gitalk -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
