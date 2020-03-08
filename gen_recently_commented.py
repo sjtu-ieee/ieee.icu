@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 from github import Github
 import json
 import sys
@@ -19,12 +21,14 @@ for i in range(4):
         course2file[course_id] = grade_url + course_id
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2: 
+    if len(sys.argv) < 2:
         print("plz provide a Github access token")
         exit(1)
     access_token = sys.argv[1]
     g = Github(access_token)
     repo = g.get_repo("keithnull/ieee.icu")
+
+    print("# 最新评论\n")
 
     issues = repo.get_issues(sort="updated")
     date_courses = {}
@@ -36,6 +40,6 @@ if __name__ == "__main__":
         course_id, course_name = title.split()[:2]
         date_courses.setdefault(date, []).append("[{} {}]({})".format(course_id, course_name, course2file[course_id]))
 
-    for date in sorted(date_courses.keys(), reverse=True):  
+    for date in sorted(date_courses.keys(), reverse=True):
         print("- {}: ".format(date) + ", ".join(date_courses[date]))
         print()
