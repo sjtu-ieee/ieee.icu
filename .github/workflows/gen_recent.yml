@@ -6,10 +6,10 @@ on:
   push:
     branches:
       - master
+      - recently_commented
   pull_request:
     branches:
       - master
-
 jobs:
   build:
 
