@@ -35,10 +35,13 @@ for i in range(4):
                    mode="a", encoding="utf8")
     for course_id in sorted(grade_courses.keys()):  # sort by course ID
         course_name = grade_courses[course_id]
-        with open(os.path.join(grade_dir, course_id + ".md"), "w") as page:
-            page.write(course_page_template.format(
-                course_id=course_id, course_name=course_name)
-            )
+        course_path = os.path.join(
+            grade_dir, course_id.replace("/", "-") + ".md")
+        if not os.path.exists(course_path):
+            with open(course_path, "w") as page:
+                page.write(course_page_template.format(
+                    course_id=course_id, course_name=course_name)
+                )
         readme.write(entry_template.format(
             course_id=course_id, course_name=course_name, grade_url=grade_url
         ))
