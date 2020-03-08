@@ -34,3 +34,4 @@
         - [MI335 惯性导航与组合导航](/courses/grade-4/MI335)
         - [SE305 数据库技术](/courses/grade-4/SE305)
         - [SE342 计算机视觉](/courses/grade-4/SE342)
+- [最新评论](/recent)

@@ -24,7 +24,7 @@
 
 ## 近期更新页面
 
-[最新评论](recent.md)
+[最新评论](/recent)
 
 - 2020-03-08: [MA227 概率论与随机过程](/courses/grade-2/MA227), [EI333 软件工程](/courses/grade-2/EI333),  [EI332 计算机组成](/courses/grade-2/EI332)
 
