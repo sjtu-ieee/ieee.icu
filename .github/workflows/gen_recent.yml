@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Update recent.md" -a
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update recent.md" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
