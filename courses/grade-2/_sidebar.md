@@ -22,3 +22,4 @@
         - [TH029 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-2/TH029)
     - [大三课程](/courses/grade-3/)
     - [大四课程](/courses/grade-4/)
+- [最新评论](/recent)
