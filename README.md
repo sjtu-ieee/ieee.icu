@@ -26,7 +26,7 @@
 
 [最新评论](/recent)
 
-- 2020-04-25: [CS257 线性优化与凸优化](/courses/grade-2/CS257)
+- 2020-04-25: [CS257 线性优化与凸优化](/courses/grade-2/CS257) 
 
 - 2020-03-09: [CS433 并行与分布式程序设计](/courses/grade-4/CS433), [CS221 数据结构](/courses/grade-2/CS221)
 
