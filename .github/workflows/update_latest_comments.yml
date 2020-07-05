@@ -38,5 +38,6 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+        branch: github-action-dev
     - name: Git status
       run: git status
