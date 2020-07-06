@@ -1,8 +1,8 @@
 # 最新评论
 
-- 2020-07-05: [EE357 计算机网络](/courses/grade-3/EE357)
+- 2020-07-06: [EE218 通信原理与实验](/courses/grade-3/EE218)
 
-- 2020-07-04: [EE359 数据挖掘技术](/courses/grade-3/EE359), [EE447 移动互联网](/courses/grade-3/EE447)
+- 2020-07-05: [EE357 计算机网络](/courses/grade-3/EE357), [EE447 移动互联网](/courses/grade-3/EE447), [EE359 数据挖掘技术](/courses/grade-3/EE359)
 
 - 2020-07-03: [CS221 数据结构](/courses/grade-2/CS221), [CS263 程序语言](/courses/grade-2/CS263), [CS258 信息论](/courses/grade-2/CS258), [EI331 信号与系统(含复变函数)](/courses/grade-2/EI331), [CS385 机器学习](/courses/grade-3/CS385)
 
