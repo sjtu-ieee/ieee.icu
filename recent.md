@@ -1,6 +1,6 @@
 # 最新评论
 
-- 2020-07-06: [EI343 控制理论](/courses/grade-3/EI343), [EI338 计算机系统工程](/courses/grade-3/EI338), [EE218 通信原理与实验](/courses/grade-3/EE218)
+- 2020-07-06: [EI338 计算机系统工程](/courses/grade-3/EI338), [EI343 控制理论](/courses/grade-3/EI343), [EE218 通信原理与实验](/courses/grade-3/EE218)
 
 - 2020-07-05: [EE357 计算机网络](/courses/grade-3/EE357), [EE447 移动互联网](/courses/grade-3/EE447), [EE359 数据挖掘技术](/courses/grade-3/EE359)
 
