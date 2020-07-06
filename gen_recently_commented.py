@@ -33,12 +33,15 @@ if __name__ == "__main__":
     issues = repo.get_issues(sort="updated")
     date_courses = {}
     for issue in issues:
-        if issue.comments == 0: continue
+        if issue.comments == 0:
+            continue
         title = issue.title
-        if title.split()[0] not in course2file: continue
+        if title.split()[0] not in course2file:
+            continue
         date = str(issue.updated_at).split()[0]
         course_id, course_name = title.split()[:2]
-        date_courses.setdefault(date, []).append("[{} {}]({})".format(course_id, course_name, course2file[course_id]))
+        date_courses.setdefault(date, []).append("[{} {}]({})".format(
+            course_id, course_name, course2file[course_id]))
 
     for date in sorted(date_courses.keys(), reverse=True):
         print("- {}: ".format(date) + ", ".join(date_courses[date]))
