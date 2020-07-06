@@ -44,5 +44,5 @@ if __name__ == "__main__":
             course_id, course_name, course2file[course_id]))
 
     for date in sorted(date_courses.keys(), reverse=True):
-        print("- {}: ".format(date) + ", ".join(date_courses[date]))
+        print("- {}: ".format(date) + ", ".join(sorted(date_courses[date])))
         print()
