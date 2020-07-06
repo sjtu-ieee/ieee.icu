@@ -36,7 +36,7 @@
 
 [最新评论](/recent)
 
-- 2020-07-06: [MA241 数学分析I](/courses/grade-1/MA241)
+- 2020-07-06: [MA241 数学分析I](/courses/grade-1/MA241), [MA208 离散数学(A类)](/courses/grade-1/MA208)
 
 - 2020-07-02: [EI332 计算机组成](/courses/grade-2/EI332)（添加 18 级的内容）
 
