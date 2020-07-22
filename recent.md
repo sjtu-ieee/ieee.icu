@@ -1,5 +1,7 @@
 # 最新评论
 
+- 2020-07-22: [CS157 程序设计思想与方法（荣誉）（C++）](/courses/grade-1/CS157)
+
 - 2020-07-20: [CS221 数据结构](/courses/grade-2/CS221), [TH007 马克思主义基本原理](/courses/grade-2/TH007)
 
 - 2020-07-06: [CS222 算法设计与分析](/courses/grade-3/CS222), [EE218 通信原理与实验](/courses/grade-3/EE218), [EI338 计算机系统工程](/courses/grade-3/EI338), [EI343 控制理论](/courses/grade-3/EI343)
