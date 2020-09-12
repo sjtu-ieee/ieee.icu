@@ -1,5 +1,7 @@
 # 最新评论
 
+- 2020-09-12: [CS386 数字图像处理](/courses/grade-4/CS386)
+
 - 2020-07-22: [CS157 程序设计思想与方法（荣誉）（C++）](/courses/grade-1/CS157), [EI333 软件工程](/courses/grade-2/EI333)
 
 - 2020-07-20: [CS221 数据结构](/courses/grade-2/CS221), [TH007 马克思主义基本原理](/courses/grade-2/TH007)
