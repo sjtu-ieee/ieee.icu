@@ -1,12 +1,14 @@
 # 最新评论
 
+- 2020-11-15: [EI343 控制理论](/courses/grade-3/EI343)
+
 - 2020-09-12: [CS386 数字图像处理](/courses/grade-4/CS386)
 
 - 2020-07-22: [CS157 程序设计思想与方法（荣誉）（C++）](/courses/grade-1/CS157), [EI333 软件工程](/courses/grade-2/EI333)
 
 - 2020-07-20: [CS221 数据结构](/courses/grade-2/CS221), [TH007 马克思主义基本原理](/courses/grade-2/TH007)
 
-- 2020-07-06: [CS222 算法设计与分析](/courses/grade-3/CS222), [EE218 通信原理与实验](/courses/grade-3/EE218), [EI338 计算机系统工程](/courses/grade-3/EI338), [EI343 控制理论](/courses/grade-3/EI343)
+- 2020-07-06: [CS222 算法设计与分析](/courses/grade-3/CS222), [EE218 通信原理与实验](/courses/grade-3/EE218), [EI338 计算机系统工程](/courses/grade-3/EI338)
 
 - 2020-07-05: [EE357 计算机网络](/courses/grade-3/EE357), [EE359 数据挖掘技术](/courses/grade-3/EE359), [EE447 移动互联网](/courses/grade-3/EE447)
 
