@@ -1,5 +1,7 @@
 # 最新评论
 
+- 2020-12-09: [CS245 数据科学基础](/courses/grade-3/CS245)
+
 - 2020-11-15: [EI343 控制理论](/courses/grade-3/EI343)
 
 - 2020-09-12: [CS386 数字图像处理](/courses/grade-4/CS386)
@@ -23,6 +25,4 @@
 - 2020-03-12: [AU332 人工智能理论及应用](/courses/grade-3/AU332)
 
 - 2020-03-08: [EI234 电路与电子学](/courses/grade-2/EI234), [MA227 概率论与随机过程](/courses/grade-2/MA227), [TH029 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-2/TH029)
-
-- 2020-03-07: [CS245 数据科学基础](/courses/grade-3/CS245)
 
