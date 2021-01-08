@@ -38,6 +38,8 @@
 
 - 2021-01-08: [EI338 计算机系统工程](/courses/grade-3/EI338.md)
 
+- 2021-01-06: [CS222 算法设计与分析](/courses/grade-3/CS222)（添加 18 级的内容）
+
 - 2020-09-12: [CS386 数字图像处理](/courses/grade-4/CS386)
 
 - 2020-07-06: [MA241 数学分析I](/courses/grade-1/MA241), [MA208 离散数学(A类)](/courses/grade-1/MA208)
