@@ -1,8 +1,6 @@
 # 最新评论
 
-- 2021-01-12: [EI338 计算机系统工程](/courses/grade-3/EI338)
-
-- 2021-01-05: [CS222 算法设计与分析](/courses/grade-3/CS222)
+- 2021-01-12: [CS222 算法设计与分析](/courses/grade-3/CS222), [EI338 计算机系统工程](/courses/grade-3/EI338)
 
 - 2020-12-09: [CS245 数据科学基础](/courses/grade-3/CS245)
 
