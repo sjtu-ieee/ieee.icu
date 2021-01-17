@@ -4,7 +4,7 @@
 
 - 2020-12-09: [CS245 数据科学基础](/courses/grade-3/CS245)
 
-- 2020-11-15: [EI343 控制理论](/courses/grade-3/EI343)
+- 2020-11-15: [EI343 控制理论](/courses/grade-2/EI343)
 
 - 2020-09-12: [CS386 数字图像处理](/courses/grade-4/CS386)
 
