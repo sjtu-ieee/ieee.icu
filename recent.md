@@ -1,6 +1,6 @@
 # 最新评论
 
-- 2021-01-17: [EI343 控制理论](/courses/grade-2/EI343)
+- 2021-01-17: [EE208 电类工程导论(C类)](/courses/grade-2/EE208), [EI343 控制理论](/courses/grade-2/EI343)
 
 - 2021-01-12: [CS222 算法设计与分析](/courses/grade-3/CS222), [EI338 计算机系统工程](/courses/grade-3/EI338)
 
