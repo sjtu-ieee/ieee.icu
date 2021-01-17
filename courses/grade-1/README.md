@@ -34,7 +34,7 @@
 - [PHY1221 (PH028) 大学物理实验(1)](/courses/grade-1/PH028)
 - [PHY1223H (PH072) 基础物理实验（荣誉）（1）](/courses/grade-1/PH072)
 - [PHY1251H (PH070) 大学物理（荣誉）（1）](/courses/grade-1/PH070)
-- [PSY1201 大学生心理健康](/courses/grade-1/PHY1201)
+- [PSY1201 大学生心理健康](/courses/grade-1/PSY1201)
 
 已取消课程：
 
