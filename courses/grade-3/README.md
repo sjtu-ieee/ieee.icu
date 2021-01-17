@@ -38,7 +38,6 @@
 - [EE447 移动互联网](/courses/grade-3/EE447)
 - [EI338 计算机系统工程](/courses/grade-3/EI338)
 - [EI339 人工智能](/courses/grade-3/EI339)
-- [EI343 控制理论](/courses/grade-3/EI343)
 - [IE315 数字信号处理](/courses/grade-3/IE315)
 - [MI329 传感器原理](/courses/grade-3/MI329)
 - [MI334 全球导航定位系统](/courses/grade-3/MI334)
