@@ -1,6 +1,6 @@
 # 最新评论
 
-- 2021-01-22: [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
+- 2021-01-22: [CS221 数据结构](/courses/grade-2/CS221), [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
 
 - 2021-01-17: [CS257 线性优化与凸优化](/courses/grade-2/CS257), [EE208 电类工程导论(C类)](/courses/grade-2/EE208), [EI343 控制理论](/courses/grade-2/EI343)
 
@@ -12,7 +12,7 @@
 
 - 2020-07-22: [CS157 程序设计思想与方法（荣誉）（C++）](/courses/grade-1/CS157)
 
-- 2020-07-20: [CS221 数据结构](/courses/grade-2/CS221), [TH007 马克思主义基本原理](/courses/grade-2/TH007)
+- 2020-07-20: [TH007 马克思主义基本原理](/courses/grade-2/TH007)
 
 - 2020-07-06: [EE218 通信原理与实验](/courses/grade-3/EE218)
 
