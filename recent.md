@@ -1,8 +1,10 @@
 # 最新评论
 
+- 2021-01-31: [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
+
 - 2021-01-23: [CS125 程序设计](/courses/grade-1/CS125)
 
-- 2021-01-22: [CS221 数据结构](/courses/grade-2/CS221), [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
+- 2021-01-22: [CS221 数据结构](/courses/grade-2/CS221)
 
 - 2021-01-17: [CS257 线性优化与凸优化](/courses/grade-2/CS257), [EE208 电类工程导论(C类)](/courses/grade-2/EE208), [EI343 控制理论](/courses/grade-2/EI343)
 
