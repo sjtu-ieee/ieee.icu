@@ -1,5 +1,7 @@
 # 最新评论
 
+- 2021-04-02: [EE357 计算机网络](/courses/grade-3/EE357)
+
 - 2021-02-28: [AU331 机器学习与知识发现](/courses/grade-3/AU331)
 
 - 2021-01-31: [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
@@ -22,7 +24,7 @@
 
 - 2020-07-06: [EE218 通信原理与实验](/courses/grade-3/EE218)
 
-- 2020-07-05: [EE357 计算机网络](/courses/grade-3/EE357), [EE359 数据挖掘技术](/courses/grade-3/EE359), [EE447 移动互联网](/courses/grade-3/EE447)
+- 2020-07-05: [EE359 数据挖掘技术](/courses/grade-3/EE359), [EE447 移动互联网](/courses/grade-3/EE447)
 
 - 2020-07-03: [CS258 信息论](/courses/grade-2/CS258), [CS263 程序语言](/courses/grade-2/CS263), [CS385 机器学习](/courses/grade-3/CS385), [EI331 信号与系统(含复变函数)](/courses/grade-2/EI331)
 
