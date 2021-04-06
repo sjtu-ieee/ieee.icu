@@ -26,7 +26,7 @@ if __name__ == "__main__":
         exit(1)
     access_token = sys.argv[1]
     g = Github(access_token)
-    repo = g.get_repo("keithnull/ieee.icu")
+    repo = g.get_repo("sjtu-ieee/ieee.icu")
 
     print("# 最新评论\n")
 
