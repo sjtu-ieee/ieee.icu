@@ -1,14 +1,12 @@
 # 最新评论
 
-- 2021-04-09: [CS0501H 数据结构（荣誉）](/courses/grade-2/CS0501H), [CS2601 线性优化与凸优化](/courses/grade-2/CS2601)
+- 2021-04-09: [CS0501H 数据结构（荣誉）](/courses/grade-2/CS0501H), [CS2601 线性优化与凸优化](/courses/grade-2/CS2601), [EE101 电类工程导论(B类)](/courses/grade-2/EE101)
 
 - 2021-04-02: [EE357 计算机网络](/courses/grade-3/EE357)
 
 - 2021-02-27: [AU2651 控制理论](/courses/grade-2/AU2651)
 
 - 2021-01-31: [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
-
-- 2021-01-24: [EE101 电类工程导论(B类)](/courses/grade-2/EE101)
 
 - 2021-01-23: [CS125 程序设计](/courses/grade-1/CS125)
 
