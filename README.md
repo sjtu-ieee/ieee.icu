@@ -40,20 +40,20 @@
 
 - 2021-01-08: [EI338 计算机系统工程](/courses/grade-3/EI338)
 
-- 2021-01-06: [CS222 算法设计与分析](/courses/grade-3/CS222)（添加 18 级的内容）
+- 2021-01-06: [CS222 算法设计与分析](/courses/grade-3/AI2615)（添加 18 级的内容）
 
-- 2020-09-12: [CS386 数字图像处理](/courses/grade-4/CS386)
+- 2020-09-12: [CS386 数字图像处理](/courses/grade-3/CS386)
 
 - 2020-07-06: [MA241 数学分析I](/courses/grade-1/MA241), [MA208 离散数学(A类)](/courses/grade-1/MA208)
 
 - 2020-07-02: [EI332 计算机组成](/courses/grade-2/EI332)（添加 18 级的内容）
 
-- 2020-07-01: [EE101 电类工程导论(B类)](/courses/grade-1/EE101)
+- 2020-07-01: [EE101 电类工程导论(B类)](/courses/grade-2/EE101)
 
-- 2020-04-25: [CS257 线性优化与凸优化](/courses/grade-2/CS257)
+- 2020-04-25: [CS257 线性优化与凸优化](/courses/grade-2/CS2601)
 
 - 2020-03-09: [CS433 并行与分布式程序设计](/courses/grade-4/CS433), [CS221 数据结构](/courses/grade-2/CS221)
 
-- 2020-03-08: [MA227 概率论与随机过程](/courses/grade-2/MA227), [EI333 软件工程](/courses/grade-2/EI333),  [EI332 计算机组成](/courses/grade-2/EI332)
+- 2020-03-08: [MA227 概率论与随机过程](/courses/grade-2/MA227), [EI333 软件工程](/courses/grade-3/CS3604),  [EI332 计算机组成](/courses/grade-2/EI332)
 
-- 2020-03-07: [CS222 算法设计与分析](/courses/grade-3/CS222), [CS263 程序语言](/courses/grade-2/CS263)
+- 2020-03-07: [CS222 算法设计与分析](/courses/grade-3/AI2615), [CS263 程序语言](/courses/grade-2/CS263)

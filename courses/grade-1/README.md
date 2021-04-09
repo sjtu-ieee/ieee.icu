@@ -3,8 +3,6 @@
 本目录下包括了 IEEE 试点班培养计划中，大一年级（即，推荐学期为1、2或2.5）开设的全部课程，请根据侧边栏的导航信息，或下述列表，查看具体课程的信息：
 
 - [CHEM1211H (CA157) 大学化学（荣誉）](/courses/grade-1/CA157)
-- [CS0501H (CS158) 数据结构（荣誉）](/courses/grade-1/CS158)
-- [CS1501H (CS157) 程序设计思想与方法（荣誉）（C++）](/courses/grade-1/CS157)
 - [CS2501H (MA239) 离散数学（荣誉）](/courses/grade-1/MA239)
 - [CS1601 (MA208) 离散数学(A类)](/courses/grade-1/MA208)
 - [CS1602 (CS124) 计算导论](/courses/grade-1/CS124)
@@ -29,14 +27,13 @@
 - [MARX1201 (TH000) 思想道德修养与法律基础](/courses/grade-1/TH000)
 - [MARX1202 (TH028) 中国近现代史纲要](/courses/grade-1/TH028)
 - [MARX1206 (XP004) 新时代社会认知实践](/courses/grade-1/XP004)
-- [MIL1201 军事理论](/courses/grade-1/TH004)
-- [MIL1202 军训](/courses/grade-1/TH010)
+- [MIL1201 军事理论](/courses/grade-1/MIL1201)
+- [MIL1202 军训](/courses/grade-1/MIL1202)
 - [PHY1221 (PH028) 大学物理实验(1)](/courses/grade-1/PH028)
 - [PHY1223H (PH072) 基础物理实验（荣誉）（1）](/courses/grade-1/PH072)
 - [PHY1251H (PH070) 大学物理（荣誉）（1）](/courses/grade-1/PH070)
 - [PSY1201 大学生心理健康](/courses/grade-1/PSY1201)
 
-已取消课程：
+暂停开设课程：
 
 - [EE100 电类工程导论(A类)](/courses/grade-1/EE100)
-- [EE101 电类工程导论(B类)](/courses/grade-1/EE101)
