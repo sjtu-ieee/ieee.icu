@@ -34,6 +34,6 @@
 - [PHY1251H (PH070) 大学物理（荣誉）（1）](/courses/grade-1/PH070)
 - [PSY1201 大学生心理健康](/courses/grade-1/PSY1201)
 
-已取消课程：
+暂停开设课程：
 
 - [EE100 电类工程导论(A类)](/courses/grade-1/EE100)

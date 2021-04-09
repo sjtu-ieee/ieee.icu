@@ -26,7 +26,7 @@
 - [PE004 体育(4)](/courses/grade-2/PE004)
 - [TH029 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-2/TH029)
 
-已取消课程：
+暂停开设课程：
 
 - [EI234 电路与电子学](/courses/grade-2/EI234)
 - [MA227 概率论与随机过程](/courses/grade-2/MA227)
