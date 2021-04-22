@@ -15,7 +15,7 @@
         - [EE227 人工智能与网络安全](/courses/grade-4/EE227)
         - [EE230 媒体智能高级专题](/courses/grade-4/EE230)
         - [EE232 社会科学中的大数据分析](/courses/grade-4/EE232)
-        - [FINAL 毕业设计(论文)](/courses/grade-4/FINAL)
         - [IE317 光纤宽带通信网络](/courses/grade-4/IE317)
         - [SE305 数据库技术](/courses/grade-4/SE305)
+        - [FINAL 毕业设计(论文)](/courses/grade-4/FINAL)
 - [最新评论](/recent)
