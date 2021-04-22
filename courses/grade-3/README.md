@@ -10,6 +10,7 @@
 - [CS3602 自然语言处理](/courses/grade-3/CS3602)
 - [CS3604 软件工程与项目管理](/courses/grade-3/CS3604)
 - [CS386 数字图像处理](/courses/grade-3/CS386)
+- [EE234 通信原理](/courses/grade-3/EE234)
 - [EE325 数字信号处理](/courses/grade-3/EE325)
 - [EE357 计算机网络](/courses/grade-3/EE357)
 - [IS201 信息安全的数学基础（1）](/courses/grade-3/IS201)
@@ -27,13 +28,12 @@
 - [EE231 人工智能系统设计与实践](/courses/grade-3/EE231)
 - [EE356 数字图像处理与模式分析](/courses/grade-3/EE356)
 - [EE359 数据挖掘技术](/courses/grade-3/EE359)
-- [EE407 专业综合实践](/courses/grade-3/EE407)
 - [EE447 移动互联网](/courses/grade-3/EE447)
+- [EE407 专业综合实践](/courses/grade-3/EE407)
 
 暂停开设课程：
 
 - [AU331 机器学习与知识发现](/courses/grade-3/AU331)
-- [EE218 通信原理与实验](/courses/grade-3/EE218)
 - [EE224 数字信号处理（AI方向）](/courses/grade-3/EE224)
 - [EI338 计算机系统工程](/courses/grade-3/EI338)
 - [EI339 人工智能](/courses/grade-3/EI339)

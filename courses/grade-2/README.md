@@ -3,8 +3,8 @@
 本目录下包括了 IEEE 试点班培养计划中，大二年级（即，推荐学期为3、4或4.5）开设的全部课程，请根据侧边栏的导航信息，或下述列表，查看具体课程的信息：
 
 - [AI2618 电子电路系统实验](/courses/grade-2/AI2618)
-- [CS0501H 数据结构（荣誉）](/courses/grade-2/CS0501H)
 - [CS2601 线性优化与凸优化](/courses/grade-2/CS2601)
+- [CS2602 (CS221) 数据结构](/courses/grade-2/CS221)
 - [EST2502 模拟电子技术](/courses/grade-2/EST2502)
 - [ICE2602 (EE208) 电类工程导论(C类)](/courses/grade-2/EE208)
 - [ICE2604 (EE101) 电类工程导论(B类)](/courses/grade-2/EE101)
@@ -16,7 +16,6 @@
 - [PHY1222 (PH029) 大学物理实验(2)](/courses/grade-2/PH029)
 - [PHY1224H (PH073) 基础物理实验（荣誉）（2）](/courses/grade-2/PH073)
 - [PHY1252H (PH071) 大学物理（荣誉）（2）](/courses/grade-2/PH071)
-- [AI2601 实验室实践](/courses/grade-2/AI2601)
 - [AU2651 控制理论](/courses/grade-2/AU2651)
 - [CS258 信息论](/courses/grade-2/CS258)
 - [CS263 程序语言](/courses/grade-2/CS263)
@@ -25,6 +24,7 @@
 - [NIS1335 网络信息安全概论](/courses/grade-2/NIS1335)
 - [PE004 体育(4)](/courses/grade-2/PE004)
 - [TH029 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-2/TH029)
+- [AI2601 实验室实践](/courses/grade-2/AI2601)
 
 暂停开设课程：
 
