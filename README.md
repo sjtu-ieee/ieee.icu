@@ -40,7 +40,7 @@
 
 - 2021-01-08: [EI338 计算机系统工程](/courses/grade-3/EI338)
 
-- 2021-01-06: [CS222 算法设计与分析](/courses/grade-3/AI2615)（添加 18 级的内容）
+- 2021-01-06: [CS222 算法设计与分析](/courses/grade-3/CS222)（添加 18 级的内容）
 
 - 2020-09-12: [CS386 数字图像处理](/courses/grade-3/CS386)
 
@@ -56,4 +56,4 @@
 
 - 2020-03-08: [MA227 概率论与随机过程](/courses/grade-2/MA227), [EI333 软件工程](/courses/grade-3/CS3604),  [EI332 计算机组成](/courses/grade-2/EI332)
 
-- 2020-03-07: [CS222 算法设计与分析](/courses/grade-3/AI2615), [CS263 程序语言](/courses/grade-2/CS263)
+- 2020-03-07: [CS222 算法设计与分析](/courses/grade-3/CS222), [CS263 程序语言](/courses/grade-2/CS263)

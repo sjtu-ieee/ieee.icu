@@ -23,8 +23,14 @@
 - [EI332 计算机组成](/courses/grade-2/EI332)
 - [NIS1335 网络信息安全概论](/courses/grade-2/NIS1335)
 - [PE004 体育(4)](/courses/grade-2/PE004)
+- [PHY1253H 大学物理（荣誉）（3）](/courses/grade-2/PHY1253H)
 - [TH029 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-2/TH029)
 - [AI2601 实验室实践](/courses/grade-2/AI2601)
+- [MA1408 线性代数II](/courses/grade-2/MA1408)
+- [MA2401 抽象代数](/courses/grade-2/MA2401)
+- [MA2402 初等数论](/courses/grade-2/MA2402)
+- [MA3605 实变函数](/courses/grade-2/MA3605)
+- [MA3614 复分析](/courses/grade-2/MA3614)
 
 暂停开设课程：
 
