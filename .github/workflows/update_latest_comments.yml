@@ -6,13 +6,13 @@ on:
   # these two events only take effect if this workflow is in master branch!
   issue_comment:
     types: [created]
-    if: ${{ !github.event.issue.pull_request }}
   issues:
     types: [opened]
   workflow_dispatch: # allow manual triggering
 
 jobs:
   update:
+    if: ${{ !github.event.issue.pull_request }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
