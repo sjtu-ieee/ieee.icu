@@ -1,14 +1,14 @@
 # 最新评论
 
-- 2021-07-21: [EE407 专业综合实践](/courses/grade-3/EE407)
+- 2021-08-22: [EE447 移动互联网](/courses/grade-3/EE447)
 
-- 2021-06-30: [CS263 程序语言](/courses/grade-2/CS263), [EI331 信号与系统(含复变函数)](/courses/grade-2/EI331)
+- 2021-08-14: [ICE2610 实验室实践](/courses/grade-2/ICE2610), [ICE3610 专业综合实践](/courses/grade-3/ICE3610)
+
+- 2021-06-30: [EI331 信号与系统(含复变函数)](/courses/grade-2/EI331)
 
 - 2021-06-28: [EE357 计算机网络](/courses/grade-3/EE357)
 
 - 2021-05-19: [AI2615 算法设计与分析](/courses/grade-3/AI2615)
-
-- 2021-05-06: [AI2601 实验室实践](/courses/grade-2/AI2601)
 
 - 2021-04-27: [EE325 数字信号处理](/courses/grade-3/EE325)
 
@@ -28,9 +28,7 @@
 
 - 2020-07-20: [TH007 马克思主义基本原理](/courses/grade-2/TH007)
 
-- 2020-07-05: [EE359 数据挖掘技术](/courses/grade-3/EE359), [EE447 移动互联网](/courses/grade-3/EE447)
-
-- 2020-07-03: [CS258 信息论](/courses/grade-2/CS258), [CS385 机器学习](/courses/grade-3/CS385)
+- 2020-07-03: [CS258 信息论](/courses/grade-2/CS258)
 
 - 2020-06-13: [EI332 计算机组成](/courses/grade-2/EI332)
 
