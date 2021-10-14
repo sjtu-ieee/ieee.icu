@@ -1,5 +1,7 @@
 # 最新评论
 
+- 2021-10-14: [AI2615 算法设计与分析](/courses/grade-3/AI2615)
+
 - 2021-08-22: [EE447 移动互联网](/courses/grade-3/EE447)
 
 - 2021-08-14: [ICE2610 实验室实践](/courses/grade-2/ICE2610), [ICE3610 专业综合实践](/courses/grade-3/ICE3610)
@@ -7,8 +9,6 @@
 - 2021-06-30: [EI331 信号与系统(含复变函数)](/courses/grade-2/EI331)
 
 - 2021-06-28: [EE357 计算机网络](/courses/grade-3/EE357)
-
-- 2021-05-19: [AI2615 算法设计与分析](/courses/grade-3/AI2615)
 
 - 2021-04-27: [EE325 数字信号处理](/courses/grade-3/EE325)
 
