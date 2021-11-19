@@ -16,7 +16,9 @@
 - [PHY1222 (PH029) 大学物理实验(2)](/courses/grade-2/PH029)
 - [PHY1224H (PH073) 基础物理实验（荣誉）（2）](/courses/grade-2/PH073)
 - [PHY1252H (PH071) 大学物理（荣誉）（2）](/courses/grade-2/PH071)
+- [AI2615 算法设计与分析](/courses/grade-2/AI2615)
 - [AU2651 控制理论](/courses/grade-2/AU2651)
+- [CS3611 (EE357) 计算机网络](/courses/grade-2/EE357)
 - [ICE2601 (CS258) 信息论](/courses/grade-2/CS258)
 - [ICE2603 (EI332) 计算机组成](/courses/grade-2/EI332)
 - [ICE2605 (EI331) 信号与系统(含复变函数)](/courses/grade-2/EI331)
@@ -24,12 +26,15 @@
 - [MARX1203 (TH029) 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-2/TH029)
 - [NIS1335 网络信息安全概论](/courses/grade-2/NIS1335)
 - [PHY1253H 大学物理（荣誉）（3）](/courses/grade-2/PHY1253H)
+- [ICE2610 实验室实践](/courses/grade-2/ICE2610)
+
+双学位课程：
+
 - [MATH1408 线性代数II](/courses/grade-2/MATH1408)
 - [MATH2401 抽象代数](/courses/grade-2/MATH2401)
 - [MATH2402 初等数论](/courses/grade-2/MATH2402)
 - [MATH3605 实变函数](/courses/grade-2/MATH3605)
 - [MATH3614 复分析](/courses/grade-2/MATH3614)
-- [ICE2610 实验室实践](/courses/grade-2/ICE2610)
 
 暂停开设课程：
 
