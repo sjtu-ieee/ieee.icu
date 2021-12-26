@@ -1,16 +1,16 @@
 # 最新评论
 
-- 2021-10-15: [CA157 大学化学（荣誉）](/courses/grade-1/CA157)
+- 2021-11-19: [EE357 计算机网络](/courses/grade-2/EE357)
 
-- 2021-10-14: [AI2615 算法设计与分析](/courses/grade-3/AI2615)
+- 2021-10-14: [AI2615 算法设计与分析](/courses/grade-2/AI2615)
+
+- 2021-09-04: [CS2612 程序语言与编译原理](/courses/grade-3/CS2612)
 
 - 2021-08-22: [EE447 移动互联网](/courses/grade-3/EE447)
 
-- 2021-08-14: [ICE2610 实验室实践](/courses/grade-2/ICE2610), [ICE3610 专业综合实践](/courses/grade-3/ICE3610)
+- 2021-08-14: [CS3612 机器学习](/courses/grade-3/CS3612), [ICE2610 实验室实践](/courses/grade-2/ICE2610), [ICE3610 专业综合实践](/courses/grade-3/ICE3610)
 
 - 2021-06-30: [EI331 信号与系统(含复变函数)](/courses/grade-2/EI331)
-
-- 2021-06-28: [EE357 计算机网络](/courses/grade-3/EE357)
 
 - 2021-04-27: [EE325 数字信号处理](/courses/grade-3/EE325)
 
@@ -19,8 +19,6 @@
 - 2021-04-09: [AI3603 人工智能理论及应用](/courses/grade-3/AI3603), [AU2651 控制理论](/courses/grade-2/AU2651), [CS2601 线性优化与凸优化](/courses/grade-2/CS2601), [CS3604 软件工程与项目管理](/courses/grade-3/CS3604), [EE101 电类工程导论(B类)](/courses/grade-2/EE101)
 
 - 2021-01-31: [PH071 大学物理（荣誉）（2）](/courses/grade-2/PH071)
-
-- 2021-01-23: [CS125 程序设计](/courses/grade-1/CS125)
 
 - 2021-01-17: [EE208 电类工程导论(C类)](/courses/grade-2/EE208)
 
