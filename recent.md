@@ -1,10 +1,8 @@
 # 最新评论
 
-- 2022-01-10: [CS3601 操作系统](/courses/grade-3/CS3601)
+- 2022-01-10: [AI2615 算法设计与分析](/courses/grade-2/AI2615), [CS3601 操作系统](/courses/grade-3/CS3601)
 
 - 2021-11-19: [EE357 计算机网络](/courses/grade-2/EE357)
-
-- 2021-10-14: [AI2615 算法设计与分析](/courses/grade-2/AI2615)
 
 - 2021-09-04: [CS2612 程序语言与编译原理](/courses/grade-3/CS2612)
 
