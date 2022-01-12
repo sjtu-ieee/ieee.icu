@@ -1,8 +1,6 @@
 # 最新评论
 
-- 2022-01-12: [AI2615 算法设计与分析](/courses/grade-2/AI2615), [AI3603 人工智能理论及应用](/courses/grade-3/AI3603), [AU344 数字信号处理技术与应用](/courses/grade-3/AU344)
-
-- 2022-01-10: [CS3601 操作系统](/courses/grade-3/CS3601)
+- 2022-01-12: [AI2615 算法设计与分析](/courses/grade-2/AI2615), [AI3603 人工智能理论及应用](/courses/grade-3/AI3603), [AU344 数字信号处理技术与应用](/courses/grade-3/AU344), [CS3601 操作系统](/courses/grade-3/CS3601)
 
 - 2021-11-19: [EE357 计算机网络](/courses/grade-2/EE357)
 
