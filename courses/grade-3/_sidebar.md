@@ -25,6 +25,7 @@
         - [AI4701 (AU335) 计算机视觉](/courses/grade-3/AU335)
         - [AU3506 (EI315) 工程实践与科技创新Ⅲ-F](/courses/grade-3/EI315)
         - [AU3601 机器人综合实践](/courses/grade-3/AU3601)
+        - [AU4606 (EE353) 网络优化](/courses/grade-3/EE353)
         - [CS3319 (CS245) 数据科学基础](/courses/grade-3/CS245)
         - [CS3321 (SE305) 数据库技术](/courses/grade-3/SE305)
         - [CS3612 机器学习](/courses/grade-3/CS3612)

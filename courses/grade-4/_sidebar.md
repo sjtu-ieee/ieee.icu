@@ -4,7 +4,6 @@
     - [大二课程](/courses/grade-2/)
     - [大三课程](/courses/grade-3/)
     - [大四课程](/courses/grade-4/)
-        - [AU4606 (EE353) 网络优化](/courses/grade-3/EE353)
         - [CS4302 (CS433) 并行与分布式程序设计](/courses/grade-4/CS433)
         - [ICE3311 (EE225) 智能物联网](/courses/grade-4/EE225)
         - [ICE4301 (EE230) 媒体智能高级专题](/courses/grade-4/EE230)
