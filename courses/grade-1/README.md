@@ -24,6 +24,7 @@
 - [FL5201 (EN065) 大学英语(5)](/courses/grade-1/EN065)
 - [KE1202 (PE002) 体育(2)](/courses/grade-1/PE002)
 - [MARX1202 (TH028) 中国近现代史纲要](/courses/grade-1/TH028)
+- [MARX1219 习近平新时代中国特色社会主义思想概论](/courses/grade-1/MARX1219)
 - [MARX1206 (XP004) 新时代社会认知实践](/courses/grade-1/XP004)
 - [MATH1204 (MA242) 数学分析II](/courses/grade-1/MA242)
 - [MATH1608H (MA268) 数学分析II（荣誉）](/courses/grade-1/MA268)
