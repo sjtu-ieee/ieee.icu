@@ -15,6 +15,7 @@
 - [ICE3301 (EE325) 数字信号处理](/courses/grade-3/EE325)
 - [ICE3310 光纤通信概论](/courses/grade-3/ICE3310)
 - [ICE3321 视频编码与通信](/courses/grade-3/ICE3321)
+- [MARX1203 (TH029) 毛泽东思想和中国特色社会主义理论体系概论](/courses/grade-3/TH029)
 - [NIS2312 (IS201) 信息安全的数学基础（1）](/courses/grade-3/IS201)
 - [NIS3316 (IS497) 信息安全综合实践](/courses/grade-3/IS497)
 - [NIS3602 硬件系统安全](/courses/grade-3/NIS3602)
