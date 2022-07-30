@@ -36,6 +36,8 @@
 
 [最新评论](/recent)
 
+- 2022-07-30: [EST2501 数字电子技术](/courses/grade-1/EST2501)
+
 - 2022-07-26: [MATH1205H 线性代数（荣誉）](/courses/grade-1/MA271)
 
 - 2022-07-26: [MATH1607H 数学分析（荣誉）I](/courses/grade-1/MA267)
