@@ -36,6 +36,10 @@
 
 [最新评论](/recent)
 
+- 2022-07-30: [CS2501H 离散数学（荣誉）](/courses/grade-1/MA239)
+
+- 2022-07-30: [MATH1608H 数学分析（荣誉）II](/courses/grade-1/MA268)
+
 - 2022-07-26: [MATH1205H 线性代数（荣誉）](/courses/grade-1/MA271)
 
 - 2022-07-26: [MATH1607H 数学分析（荣誉）I](/courses/grade-1/MA267)
