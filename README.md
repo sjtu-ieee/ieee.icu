@@ -36,7 +36,7 @@
 
 [最新评论](/recent)
 
-- 2022-07-30: [EE0501H 电路理论（荣誉）](/courses/grade-1/EE0501H)，[CS2501H 离散数学（荣誉）](/courses/grade-1/MA239)，[MATH1608H 数学分析（荣誉）II](/courses/grade-1/MA268)
+- 2022-07-30: [EST2501 数字电子技术](/courses/grade-1/EST2501)，[EE0501H 电路理论（荣誉）](/courses/grade-1/EE0501H)，[CS2501H 离散数学（荣誉）](/courses/grade-1/MA239)，[MATH1608H 数学分析（荣誉）II](/courses/grade-1/MA268)
 
 - 2022-07-26: [MATH1205H 线性代数（荣誉）](/courses/grade-1/MA271)，[MATH1607H 数学分析（荣誉）I](/courses/grade-1/MA267)
 
