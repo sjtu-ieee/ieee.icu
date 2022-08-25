@@ -1,8 +1,8 @@
 # 最新评论
 
-- 2022-08-21: [SE305 数据库技术](/courses/grade-3/SE305)
+- 2022-08-25: [CS221 数据结构](/courses/grade-2/CS221)
 
-- 2022-05-30: [CS221 数据结构](/courses/grade-2/CS221)
+- 2022-08-21: [SE305 数据库技术](/courses/grade-3/SE305)
 
 - 2022-02-08: [MATH3614 复分析](/courses/grade-2/MATH3614)
 
