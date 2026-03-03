@@ -47,40 +47,11 @@
             if (splited.length >= 2 && !splited[1].startsWith("code=")) {
               location.href = location.href.split('?')[0]
             }
+            if (window.gitalk) {
+              var route = (location.hash || '#/').split('?')[0]
+              window.gitalk.options.id = 'https://ieee.icu/' + route
+            }
             return html
-          });
-
-          hook.doneEach(function() {
-            const content = document.querySelector('.content')
-            if (!content) return
-
-            let container = document.getElementById('gitalk-container')
-            if (!container) {
-              container = document.createElement('div')
-              container.id = 'gitalk-container'
-              const main = document.getElementById('main')
-              const width = main ? main.clientWidth : 0
-              container.style = 'width: ' + width + 'px; margin: 0 auto 20px;'
-              content.appendChild(container)
-            }
-
-            while (container.firstChild) {
-              container.removeChild(container.firstChild)
-            }
-
-            const legacySiteBase = 'https://ieee.icu/'
-            const route = (location.hash || '#/').split('?')[0]
-            const gitalk = new Gitalk({
-              clientID: '7609b4af633de422bc1f',
-              clientSecret: '513ef364f7331a03917e4330a7ff80b7998bad47',
-              repo: 'ieee.icu',
-              owner: 'sjtu-ieee',
-              admin: ['ieee-icu','keithnull','xxchan','ghost-no1337'],
-              id: legacySiteBase + route,
-              // facebook-like distraction free mode
-              distractionFreeMode: false
-            })
-            gitalk.render('gitalk-container')
           });
         }
       ],
@@ -93,7 +64,21 @@
   <!-- Search -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!-- Gitalk -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const route = (location.hash || '#/').split('?')[0]
+    window.gitalk = new Gitalk({
+      clientID: '7609b4af633de422bc1f',
+      clientSecret: '513ef364f7331a03917e4330a7ff80b7998bad47',
+      repo: 'ieee.icu',
+      owner: 'sjtu-ieee',
+      admin: ['ieee-icu','keithnull','xxchan','ghost-no1337'],
+      id: 'https://ieee.icu/' + route,
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
   <!-- Pangu -->
   <script src="//cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"></script>
   <script>
