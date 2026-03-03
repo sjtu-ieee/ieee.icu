@@ -47,6 +47,11 @@
             if (splited.length >= 2 && !splited[1].startsWith("code=")) {
               location.href = location.href.split('?')[0]
             }
+            if (window.gitalk) {
+              var route = (location.hash || '#/').split('?')[0]
+              window.gitalk.options.id = 'https://ieee.icu/' + route
+            }
+            return html
           });
         }
       ],
@@ -62,12 +67,14 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
-    const gitalk = new Gitalk({
+    const route = (location.hash || '#/').split('?')[0]
+    window.gitalk = new Gitalk({
       clientID: '7609b4af633de422bc1f',
       clientSecret: '513ef364f7331a03917e4330a7ff80b7998bad47',
       repo: 'ieee.icu',
       owner: 'sjtu-ieee',
       admin: ['ieee-icu','keithnull','xxchan','ghost-no1337'],
+      id: 'https://ieee.icu/' + route,
       // facebook-like distraction free mode
       distractionFreeMode: false
     })
